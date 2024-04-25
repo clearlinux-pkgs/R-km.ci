@@ -7,7 +7,7 @@
 #
 Name     : R-km.ci
 Version  : 0.5.6
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/km.ci_0.5-6.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/km.ci_0.5-6.tar.gz
 Summary  : Confidence Intervals for the Kaplan-Meier Estimator
